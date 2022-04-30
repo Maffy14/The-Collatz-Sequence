@@ -1,4 +1,3 @@
-
 print('Enter number:')
 number = int(input())
 
